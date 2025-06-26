@@ -2,15 +2,14 @@
 
 Watch our Demo video below:
 
-[![BioStride](https://img.youtube.com/vi//fEPoDTJToyI/0.jpg)](https://www.youtube.com/watch?v=fEPoDTJToyI)
-
+[![BioStride Demo Video](https://img.youtube.com/vi/fEPoDTJToyI/0.jpg)](https://www.youtube.com/watch?v=fEPoDTJToyI)
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=fEPoDTJToyI" />
   
-Redirecting to BioStride Co-Founders Video
+Redirecting to BioStride Demo Video
 </head>
 <body>
 </body>

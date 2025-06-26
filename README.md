@@ -9,9 +9,9 @@ Watch our Demo video below:
 <html lang="en">
 <head>
 <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=/fEPoDTJToyI" />
+  
 Redirecting to BioStride Co-Founders Video
 </head>
 <body>
-<p>If you are not redirected automatically, <a href="https://www.youtube.com/watch?v=/fEPoDTJToyI">click here to watch the video</a>.</p>
 </body>
 </html>

@@ -2,17 +2,16 @@
 
 Watch our Demo video below:
 
-[![BioStride](https://img.youtube.com/vi/Utmg13OMGNo/0.jpg)](https://www.youtube.com/watch?v=Utmg13OMGNo)
-
+[![BioStride](https://img.youtube.com/vi//fEPoDTJToyI/0.jpg)](https://www.youtube.com/watch?v=/fEPoDTJToyI)
 
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=Utmg13OMGNo" />
+<meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=/fEPoDTJToyI" />
 Redirecting to BioStride Co-Founders Video
 </head>
 <body>
-<p>If you are not redirected automatically, <a href="https://www.youtube.com/watch?v=Utmg13OMGNo">click here to watch the video</a>.</p>
+<p>If you are not redirected automatically, <a href="https://www.youtube.com/watch?v=/fEPoDTJToyI">click here to watch the video</a>.</p>
 </body>
 </html>
